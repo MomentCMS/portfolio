@@ -1,4 +1,4 @@
-# Paul Moment - UI/UX Portfolio
+# Paul Moment - Development/UI/UX Portfolio
 
 **CODE SAMPLES AND SCREENSHOTS AVAILABLE ON REQUEST**
 
