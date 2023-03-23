@@ -1,4 +1,4 @@
-# Paul Moment - Development/UI/UX Portfolio
+# Paul Moment - Lead/Backend/UI/UX Portfolio
 
 **CODE SAMPLES AND SCREENSHOTS AVAILABLE ON REQUEST**
 
@@ -10,15 +10,26 @@
 
 **Freelance Portfolio**: www.momentmedia.biz
 
-LionDesk Development Projects/Components
+LionDesk CRM Leadership/Projects/Components
 ---------------------------------
 
 1.	**Results**
-	+ Rapid year-over-year growth of LionDesk CRM and reputation, based on ease of use and stable high-function usability
+	+ Rapid year-over-year growth of LionDesk CRM ending in acquisition, based on ease of use and stable high-function usability
 	+ Increased lead and revenue generation and engagement from website via flexible, adaptable components
 	+ Increase revenue and engagement via rapid, well-planned outbound sales technical integration
 	+ Higher customer satisfaction via support tooling and assistance
-2.	**CRM Components**
+	+ Delivered continuous and diverse series of multiple parallel projects on time and on budget 
+	+ Increased team cohesion and performance, and formed strong organizational partnerships
+2.	**Leadership**
+	+ Identify opportunities within projects and create organized, clear, and achievable objectives
+	+ Emphasize cooperation, cross-training, and horizontal leadership
+	+ Encourage self-directed discovery and professional development
+	+ Encourage intrapraneurial ownership of projects/successes/mistakes and destigmatize failure
+	+ Treat diversity of team/perspectives as a major business advantages: Deeper insight, higher quality output, and durable value
+	+ Provide clear expectations and objective performance evaluations, focused on evolving team members capabilities
+	+ In crisis, calm and focus stakeholders on identifying and resolving highest impact fixes
+	+ Treat organizational stakeholders as partners and collaborators
+3.	**CRM Components**
 	+ Contact management classes, UI/UX, custom fields, custom filtering, caching & performance
 	+ Campaign management task types and scheduling/recurrence
 	+ Complex subscription and account management (ecommerce), API integration, business rule planning
@@ -31,19 +42,20 @@ LionDesk Development Projects/Components
 	+ Custom power dialer - including dispositions and saved session mgmt
 	+ Direct mail - API integration, PDF previews, custom templates, scheduling, tracking/previews
 	+ Account cancellation, including complex scenarios with addons and subaccounts, reporting
+	+ Scalable asynchronous automation
 	+ Retsly MLS service integration
 	+ Google contacts integration and syncing
 	+ In-app analytics and marketing
 	+ V1 API and lead gen updates and maintenance
 	+ MLS OpenID integrations
-3.	**Backoffice**
+4.	**Back-office**
 	+ PureCloud API lead management integration for internal sales
 	+ Administration tools for support team - account mgmt, exports, restorations, contact transfers, etc.
 	+ Various tools for managing API integrations, spam, LionDesk accounts
 	+ Cron automation for lead distribution, daily emails, reminders, backoffice tasks
 	+ Support forensics and assistance
 	+ GROW report creation and other special reporting generation
-4.	**Marketing**
+5.	**Marketing**
 	+ Website v2 UI/UX design & development, content, analytics
 	+ Website components - custom ecommerce: Subscriptions & special products, seasonal promos
 	+ Website components - lead gen: Account creation and downstream offers, contact tagging & mgmt, custom behaviors
@@ -51,7 +63,7 @@ LionDesk Development Projects/Components
 	+ Website components - headless CMS: Use Wordpress as feed for static blog content display and page content
 	+ Reseller landing pages - Custom integrations for partners like Stewart and BAB
 	+ Referral campaign tracking and attribution
-5.	**Partner Integration**
+6.	**Partner Integration**
 	+ Outbound sales integration (Rock Connections) - strategy, full live-lead API integration, sales tracking & reporting, ecommerce, custom response API 
 
 Avoya Lead Management System (LMS) - UI+UX
