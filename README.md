@@ -2,9 +2,9 @@
 
 **CODE SAMPLES AND SCREENSHOTS AVAILABLE ON REQUEST**
 
-**Resume**: www.momentmedia.biz/Paul-Moment_Resume.pdf
+**Resume**: www.moment.media/downloads/Paul-Moment_Resume.pdf
 
-**Recommendation**: www.momentmedia.biz/Paul-Moment_Recommendation.pdf
+**Recommendation**: www.moment.media/downloads/Paul-Moment_Recommendation.pdf
 
 **LinkedIn**: www.linkedin.com/in/paulmoment
 
